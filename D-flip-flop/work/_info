@@ -1,0 +1,124 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/ModelSim/projects/D-flip-flop
+vd_flip
+Z1 !s110 1793611267
+!i10b 1
+!s100 NP@QhAHR0mIhbcDGhgF[M0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJUh6eS22>DZV5mbKLYB;n3
+R0
+w1793611141
+8d_flip.v
+Fd_flip.v
+!i122 15
+Z3 L0 3 15
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z6 !s108 1793611267.000000
+!s107 tb_d_flip.v|d_flip.v|
+Z7 !s90 -reportprogress|300|d_flip.v|tb_d_flip.v|
+!i113 1
+Z8 tCvgOpt 0
+vd_flip_flop_4bit
+Z9 !s110 1793611097
+!i10b 1
+!s100 NI23[I?<X^>V1XI][2<Vb2
+R2
+IUDaJQ8l=i95>HNJCYiC9[1
+R0
+w1793611013
+8E:/FPGA/ModelSim/projects/D-flip-flop/d_flip.v
+FE:/FPGA/ModelSim/projects/D-flip-flop/d_flip.v
+!i122 11
+R3
+R4
+R5
+r1
+!s85 0
+31
+!s108 1793611096.000000
+!s107 E:/FPGA/ModelSim/projects/D-flip-flop/d_flip.v|
+!s90 -reportprogress|300|-work|work|E:/FPGA/ModelSim/projects/D-flip-flop/d_flip.v|
+!i113 1
+Z10 o-work work
+R8
+vtb_d_flip
+R1
+!i10b 1
+!s100 M8[cNQK1z7e8K8VWC3h@S0
+R2
+IFP0>EO[d[No2Y[eWWQ[Gf0
+R0
+w1793611153
+8tb_d_flip.v
+Ftb_d_flip.v
+!i122 15
+Z11 L0 3 38
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 tb_d_flip.v|d_flip.v|
+R7
+!i113 1
+R8
+vtb_d_flip_flop_4bit
+R9
+!i10b 1
+!s100 4NjF@<UZ3DUbVYm>R8RBQ1
+R2
+Ig8Cda7KFTA:9URUc1Sa?_1
+R0
+w1793611086
+Z13 8E:/FPGA/ModelSim/projects/D-flip-flop/tb_d_flip.v
+Z14 FE:/FPGA/ModelSim/projects/D-flip-flop/tb_d_flip.v
+!i122 12
+R11
+R4
+R5
+r1
+!s85 0
+31
+!s108 1793611097.000000
+Z15 !s107 E:/FPGA/ModelSim/projects/D-flip-flop/tb_d_flip.v|
+Z16 !s90 -reportprogress|300|-work|work|E:/FPGA/ModelSim/projects/D-flip-flop/tb_d_flip.v|
+!i113 1
+R10
+R8
+vtb_four_bit_adder
+!s110 1793601108
+!i10b 1
+!s100 LizJb9ckDa7H2WaaQOE@H2
+R2
+I_N^<nTC[5boJI>okjDO013
+R0
+w1793601092
+R13
+R14
+!i122 10
+L0 2 19
+R4
+R5
+r1
+!s85 0
+31
+!s108 1793601108.000000
+R15
+R16
+!i113 1
+R10
+R8

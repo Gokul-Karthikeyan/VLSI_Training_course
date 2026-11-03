@@ -1,0 +1,5 @@
+Mon Nov 02 10:47:30 IST 2026
+Trace back: command returned bad code: 2
+    (command bound to event)
+  <2:E:/modelsim/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {command returned bad code: 2}
+  <1:eval:1: ::tk::dialog::error::bgerror {command returned bad code: 2}
