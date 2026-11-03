@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/ModelSim/projects/half adder
+vhalfadder
+!s110 1793443868
+!i10b 1
+!s100 n;YBJQ3N8<4eA:P4a8gSm0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU_@mYA3^ae3a5eh>G09?23
+R0
+w1793443336
+8E:/FPGA/ModelSim/projects/half adder/halfadder.v
+FE:/FPGA/ModelSim/projects/half adder/halfadder.v
+!i122 3
+L0 2 12
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793443868.000000
+!s107 E:/FPGA/ModelSim/projects/half adder/halfadder.v|
+!s90 -reportprogress|300|-work|work|E:/FPGA/ModelSim/projects/half adder/halfadder.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vtb_halfadder
+!s110 1793443862
+!i10b 1
+!s100 NPZRa1LR[iJ[2N0^3<1nA1
+R1
+IKK8H[F?k]aPN=HD_>::K33
+R0
+w1793442166
+8E:/FPGA/ModelSim/projects/half adder/tb_halfadder.v
+FE:/FPGA/ModelSim/projects/half adder/tb_halfadder.v
+!i122 2
+L0 3 38
+R2
+R3
+r1
+!s85 0
+31
+!s108 1793443862.000000
+!s107 E:/FPGA/ModelSim/projects/half adder/tb_halfadder.v|
+!s90 -reportprogress|300|-work|work|E:/FPGA/ModelSim/projects/half adder/tb_halfadder.v|
+!i113 1
+R4
+R5
