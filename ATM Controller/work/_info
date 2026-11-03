@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/FPGA/ModelSim/projects/ATM Controller
+vatm_controller
+Z1 !s110 1793681308
+!i10b 1
+!s100 dh^oh4A:61?kGWJ@cz0ZR1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYU3a<:6`?h6Jj3io6kY6e3
+R0
+w1793681032
+8ATM_controller.v
+FATM_controller.v
+!i122 2
+L0 1 95
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1793681308.000000
+!s107 ATM_controller_tb.v|ATM_controller.v|
+Z6 !s90 -reportprogress|300|ATM_controller.v|ATM_controller_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vatm_controller_tb
+R1
+!i10b 1
+!s100 N8gK^S_B1M0bSTMhd3II_3
+R2
+ICfh[84[QdAanAHFW_Gie>2
+R0
+w1793681205
+8ATM_controller_tb.v
+FATM_controller_tb.v
+!i122 2
+L0 3 114
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ATM_controller_tb.v|ATM_controller.v|
+R6
+!i113 1
+R7
