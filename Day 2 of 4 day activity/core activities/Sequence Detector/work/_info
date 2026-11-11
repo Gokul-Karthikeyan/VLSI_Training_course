@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 2 of 4 day activity/core activities/Sequence Detector
+vseq_moore
+Z1 !s110 1794409823
+!i10b 1
+!s100 4W]6c6B<^@@Tz1f]n@c`21
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ5SY[ZlLZ1LXDodg9S8Pk1
+R0
+w1794406539
+8seq_moore.v
+Fseq_moore.v
+!i122 2
+L0 1 24
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794409823.000000
+!s107 seq_moore_tb.v|seq_moore.v|
+Z6 !s90 -reportprogress|300|seq_moore.v|seq_moore_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vseq_moore_tb
+R1
+!i10b 1
+!s100 ao_2ja_JToTE3EWZECmWB1
+R2
+I53XaKAZ[fg?]9QZheUGYg1
+R0
+w1794406528
+8seq_moore_tb.v
+Fseq_moore_tb.v
+!i122 2
+L0 2 24
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 seq_moore_tb.v|seq_moore.v|
+R6
+!i113 1
+R7

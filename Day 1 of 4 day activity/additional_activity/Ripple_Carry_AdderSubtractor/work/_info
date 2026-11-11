@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 1 of 4 day activity/additional_activity/Ripple_Carry_AdderSubtractor
+vadder_sub
+Z1 !s110 1794404493
+!i10b 1
+!s100 43Lg38QMBRfQ[`=W8AT9i0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAMF:LjgLkRnLRZCF1a?D90
+R0
+w1794330897
+8adder_sub.v
+Fadder_sub.v
+!i122 7
+L0 1 30
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794404493.000000
+!s107 adder_sub_tb.v|full_adder.v|adder_sub.v|
+Z6 !s90 -reportprogress|300|adder_sub.v|full_adder.v|adder_sub_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vadder_sub_tb
+R1
+!i10b 1
+!s100 kkh`7Jm0aoDoH96OPAz]O1
+R2
+IP0bh]ZSA:NP2eGn;YK4bm3
+R0
+w1794404442
+8adder_sub_tb.v
+Fadder_sub_tb.v
+!i122 7
+L0 2 40
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 adder_sub_tb.v|full_adder.v|adder_sub.v|
+R6
+!i113 1
+R7
+vfull_adder
+R1
+!i10b 1
+!s100 MfOHaz2JzIN6jczjFjYaQ2
+R2
+ImXNzLS9?dhM0[78Kzh`Ym2
+R0
+w1794330781
+8full_adder.v
+Ffull_adder.v
+!i122 7
+L0 1 7
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

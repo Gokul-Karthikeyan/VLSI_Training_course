@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 2 of 4 day activity/core activities/Synchronous FIFO
+vfifo
+Z1 !s110 1794410035
+!i10b 1
+!s100 a3S[I1<kC`SoMY4Y2M]Yd0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImXEWDG2Sh5e@?g]FD<fdo0
+R0
+w1794406535
+8fifo.v
+Ffifo.v
+!i122 2
+L0 1 38
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794410035.000000
+!s107 fifo_tb.v|fifo.v|
+Z6 !s90 -reportprogress|300|fifo.v|fifo_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vfifo_tb
+R1
+!i10b 1
+!s100 7f09Yi2dNHGbbf6_]@PzQ0
+R2
+Imz;I7DahiZHbzO@]G`]a71
+R0
+w1794406524
+8fifo_tb.v
+Ffifo_tb.v
+!i122 2
+L0 2 41
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 fifo_tb.v|fifo.v|
+R6
+!i113 1
+R7

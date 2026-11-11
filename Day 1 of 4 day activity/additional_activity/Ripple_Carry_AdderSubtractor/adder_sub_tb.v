@@ -5,7 +5,7 @@ module adder_sub_tb;
     wire [7:0] result;
     wire cout, overflow;
     
-    integer i, j, errors = 0;
+    integer i, j, m, errors = 0; // Added integer 'm' for the loop
     reg [8:0] expected_full;
     reg expected_ovf;
 
@@ -13,7 +13,8 @@ module adder_sub_tb;
 
     initial begin
         // Exhaustive test for Add and Subtract
-        for (mode = 0; mode <= 1; mode = mode + 1) begin
+        for (m = 0; m <= 1; m = m + 1) begin
+            mode = m; // Safely assign the integer value to the 1-bit wire
             for (i = 0; i < 256; i = i + 1) begin
                 for (j = 0; j < 256; j = j + 1) begin
                     a = i; b = j; #1;
@@ -33,7 +34,7 @@ module adder_sub_tb;
                 end
             end
         end
-        if (errors == 0) $display("PASS: All Adder/Subtractor tests passed."); //[cite: 2]
+        if (errors == 0) $display("PASS: All Adder/Subtractor tests passed.");
         else $display("Finished with %0d errors.", errors);
         $finish;
     end

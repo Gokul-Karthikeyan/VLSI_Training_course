@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 1 of 4 day activity/additional_activity/LFSR and Shift Register
+vlfsr
+Z1 !s110 1794403827
+!i10b 1
+!s100 6fCF0<hC=57bJokmNShIB1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWf76^mYAgaXY_bB<dUSKn0
+R0
+w1794331278
+8lfsr.v
+Flfsr.v
+!i122 3
+L0 1 13
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794403827.000000
+!s107 shiftreg.v|lfsr_tb.v|lfsr.v|
+Z6 !s90 -reportprogress|300|lfsr.v|lfsr_tb.v|shiftreg.v|
+!i113 1
+Z7 tCvgOpt 0
+vlfsr_tb
+R1
+!i10b 1
+!s100 I4oP;`Qmc8eD@bQi9;a0_2
+R2
+I:NaQ3ZHF]2I^CUgzYjlzX3
+R0
+w1794331324
+8lfsr_tb.v
+Flfsr_tb.v
+!i122 3
+L0 2 38
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 shiftreg.v|lfsr_tb.v|lfsr.v|
+R6
+!i113 1
+R7
+vshiftreg
+R1
+!i10b 1
+!s100 8QCkMkMQc<FHk2N<:PlYa1
+R2
+I_J@@^md[Y>`LKdRW2fMLl1
+R0
+w1794331228
+8shiftreg.v
+Fshiftreg.v
+!i122 3
+L0 1 17
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

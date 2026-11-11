@@ -1,0 +1,99 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 1 of 4 day activity/additional_activity/Priority Encoder and Decoder
+vdecoder_3to8
+Z1 !s110 1794404035
+!i10b 1
+!s100 a7TzZIZYVc^g=YbSNU1cl2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik4d`Cozh=?JnW^UcD7S3=0
+R0
+w1794331127
+8decoder.v
+Fdecoder.v
+!i122 3
+L0 1 10
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794404034.000000
+!s107 enc_dec_tb.v|encoder.v|decoder.v|
+Z6 !s90 -reportprogress|300|decoder.v|encoder.v|enc_dec_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+venc_dec_tb
+R1
+!i10b 1
+!s100 lh3Y==cHHGglfG[D5a42F2
+R2
+I`K3N]?BLI>i]Eb`ee6?8:1
+R0
+w1794331170
+8enc_dec_tb.v
+Fenc_dec_tb.v
+!i122 3
+L0 2 39
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 enc_dec_tb.v|encoder.v|decoder.v|
+R6
+!i113 1
+R7
+vpriority_encoder_casez
+R1
+!i10b 1
+!s100 Qdoo?mUMV?g:E5_XzA4dK1
+R2
+I@d9mKMzzLFLcFVGH>cH6I0
+R0
+Z9 w1794331090
+Z10 8encoder.v
+Z11 Fencoder.v
+!i122 3
+L0 1 20
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vpriority_encoder_ifelse
+R1
+!i10b 1
+!s100 e8XBb>ei`]0CfaAN:`3_o2
+R2
+ImFi061oP1PS7;f^aBS>4j3
+R0
+R9
+R10
+R11
+!i122 3
+L0 22 18
+R3
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7

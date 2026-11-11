@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 2 of 4 day activity/core activities/Vending Machine Controller
+vvending
+Z1 !s110 1794410196
+!i10b 1
+!s100 lmY:7aW3J[Qn@[hjHCj_d1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1CNQ^UVoQj;9BY7WngT3I1
+R0
+w1794406542
+8vending.v
+Fvending.v
+!i122 2
+L0 1 34
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794410196.000000
+!s107 vending_tb.v|vending.v|
+Z6 !s90 -reportprogress|300|vending.v|vending_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vvending_tb
+R1
+!i10b 1
+!s100 3^Umc89T2FUkLVjOia>^n2
+R2
+IcVe<^`i__oeJV4zgn4nbZ0
+R0
+w1794406531
+8vending_tb.v
+Fvending_tb.v
+!i122 2
+L0 2 33
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 vending_tb.v|vending.v|
+R6
+!i113 1
+R7
