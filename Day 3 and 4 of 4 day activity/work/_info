@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ASUS/Documents/FPGA/ModelSim/projects/Day 3 and 4 of 4 day activity
+vRisc_v_pipelined
+Z1 !s110 1794492850
+!i10b 1
+!s100 :<8U>Cj9^24KI0HoIaBTE2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IYP7ST@?@]C6E5]@;M9B;f1
+R0
+w1794492183
+8Risc_v_pipelined.v
+FRisc_v_pipelined.v
+!i122 2
+L0 4 242
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1794492850.000000
+!s107 Risc_v_pipelined_tb.v|Risc_v_pipelined.v|
+Z6 !s90 -reportprogress|300|Risc_v_pipelined.v|Risc_v_pipelined_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+n@risc_v_pipelined
+vRisc_v_pipelined_tb
+R1
+!i10b 1
+!s100 fkP5=lj^:CH2><lom5j440
+R2
+INbOXOi@O_44k?=olDU>_D1
+R0
+w1794492220
+8Risc_v_pipelined_tb.v
+FRisc_v_pipelined_tb.v
+!i122 2
+L0 3 62
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 Risc_v_pipelined_tb.v|Risc_v_pipelined.v|
+R6
+!i113 1
+R7
+n@risc_v_pipelined_tb
